@@ -1,1 +1,1 @@
-console.log("This is my calculator");
+console.log('code');
